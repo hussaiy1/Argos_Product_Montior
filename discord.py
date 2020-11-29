@@ -1,7 +1,7 @@
 from discord_hooks import Webhook
 from datetime import datetime
 
-WEBHOOK_URL = 'https://discordapp.com/api/webhooks/707964235250139137/yVH9Nuizs87S7dGWqYC4bLLseBv3ea7dsCSoWF2G5P1rCBYUsHMglAo4J3OPxD743oVD'
+WEBHOOK_URL = ''
 
 
 embed = Webhook(
